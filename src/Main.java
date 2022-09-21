@@ -13,7 +13,7 @@ public class Main {
 
 
         // Задача 7
-        System.out.println("Задача 7");
+        System.out.println("Задача 7 ");
         System.out.println("Разница между весами бойцов (Первый способ): " + (weight2boxer - weight1boxer));
         System.out.println("Разница между весами бойцов (Второй способ): " + (weight2boxer % weight1boxer));
 
